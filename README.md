@@ -1,7 +1,7 @@
-<h2 align="left">About Me : </h2>
-<h4 align="center">Hi 👋! I am Hikmat Fadrial Ramadhan, a software developer with a strong passion for mobile app development, particularly with Flutter. I am continuously honing my skills to create outstanding user experiences in mobile applications.</h4>
+<h4 align="justify">Hi 👋! I am Hikmat Fadrial Ramadhan, a software developer with a strong passion for mobile app development, particularly with Flutter. I am continuously honing my skills to create outstanding user experiences in mobile applications.</h4>
 
 ###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krulcifer-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/fadrial_r/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
