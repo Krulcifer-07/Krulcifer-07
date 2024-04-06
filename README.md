@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hikmat Fadrial Ramadhan and I'm a Flutter Developer, from Indonesia.</h2>
+<h2 align="left">Hi 👋! I am Hikmat Fadrial Ramadhan, a software developer with a strong passion for mobile app development, particularly with Flutter. I am continuously honing my skills to create outstanding user experiences in mobile applications.</h2>
 
 ###
 
